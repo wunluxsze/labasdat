@@ -1,0 +1,25 @@
+.task{
+    display: flex;
+    flex-direction: column;
+}
+.firstname{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
+.lastname{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
+.form{
+    flex-direction: column;
+    display: flex;
+    width: 250px;
+}
+.w{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
+.q{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
